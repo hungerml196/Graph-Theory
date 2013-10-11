@@ -1,0 +1,1 @@
+The purpose of this project is to create a suite of implementations to solve various graph theory problems.
